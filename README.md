@@ -44,7 +44,7 @@ Get your API Key. This is used for sending the acknowledge response back to sysd
 
 1. Go to [Account Settings > User Profile](https://app.sysdigcloud.com/#/settings/user)
 2. Get your Sysdig Monitor API Token.
-3. Copy this and put it in an xMatters constant. (This is later used in the **Sysdig - Acknowledge Response** step)
+3. Copy this and put it in the **Sysdig API Token** xMatters constant. (This constant is used in the **Sysdig - Acknowledge Response** step)
 
 **Note: as of creating this integration, the API is still in Beta, so it may break at any time.**
 
